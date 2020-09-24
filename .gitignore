@@ -8,6 +8,7 @@ ehthumbs.db
 Thumbs.db
 *.log
 *.pot
+*.egg-info
 *.py[cod]
 settings_local.py
 settings_overrides.py
