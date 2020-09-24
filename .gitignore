@@ -1,0 +1,34 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+*.log
+*.pot
+*.py[cod]
+settings_local.py
+settings_overrides.py
+__pycache__
+nohup.out
+
+.pdb-pyhist
+# not in version control
+rtserver-lib
+
+# vim temp files
+*.swp
+*.swo
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# separate repo
+ws/web/dojo141
